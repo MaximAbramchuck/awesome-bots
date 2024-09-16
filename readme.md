@@ -273,6 +273,7 @@ This project is no longer actively supported.
 * [DeepPavlov](https://deeppavlov.ai) - An open source library for deep learning end-to-end dialog systems and chatbots.
 
 ### Bot building platforms
+* [BotStar](https://www.botstar.com/) - Design and develop chatbots with the best visual flow editor. Publish your bots to Messenger, Websites. Including smart NLP training, built-in scripting editor and 1500+ integrations.
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
 * [BLiP](http://blip.ai/en/) - BLiP helps you serve, engage and sell through conversations on your site and app, Facebook Messenger, Workplace, SMS, Email, Telegram, Twitter, Skype and other popular apps. All you need to create, manage and evolve your chatbot on the same platform.
 * [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding. Launch a full-featured chatbot in 7 minutes
