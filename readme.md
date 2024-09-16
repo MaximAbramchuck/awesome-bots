@@ -33,6 +33,7 @@ This project is no longer actively supported.
   - [Testing](#testing)
   - [Internationalization](#internationalization)
   - [Customer Service](#customer-service)
+  - [Engineering](#engineering)
 - [Sources (news, articles, blogs, resources)](#sources-news-articles-blogs-resources)
   - [VentureBeat](#venturebeat)
   - [TechCrunch](#techcrunch)
@@ -210,6 +211,9 @@ This project is no longer actively supported.
 #### Customer service
 * [LiveChat24/7](https://www.livechat24-7.com/) - Discover how our Chatbot supported Live Chat is the easiest and best way to save time and improve customer service
 * [agent.ai](https://www.agent.ai/) - AI-Enhanced Customer Service. Let artificial intelligence resolve your customers’ frequently asked questions in seconds, not days
+
+#### Engineering
+* [Toast](https://toast.ninja) – GitHub pull request updates & code review reminders — delivered on a toast to your Slack. Toast combines happy user experience with clean UI.
 
 ### Sources (news, articles, blogs, resources)
 
