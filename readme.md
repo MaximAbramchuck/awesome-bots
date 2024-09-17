@@ -210,6 +210,7 @@ This project is no longer actively supported.
 #### Customer service
 * [LiveChat24/7](https://www.livechat24-7.com/) - Discover how our Chatbot supported Live Chat is the easiest and best way to save time and improve customer service
 * [agent.ai](https://www.agent.ai/) - AI-Enhanced Customer Service. Let artificial intelligence resolve your customers’ frequently asked questions in seconds, not days
+* [Botfuel Answers](https://answers.botfuel.io) - Industry-specific pre-trained chatbots for customer support automation
 
 ### Sources (news, articles, blogs, resources)
 
