@@ -250,6 +250,7 @@ This project is no longer actively supported.
 * [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
 * [Planeta Chatbot](https://planetachatbot.com/?fref=gc) - A chatbot magazine originally created in Spain with the purpose of sharing the latest content about chatbots.
 * [UX of Chatbots](http://uxofchatbots.com/) - A curated list of resources to help you on your journey into the User Experience of Chatbots.
+* [botsup.me](https://botsup.me/) [english/russian] - Catalogue of ONLY ACTIVE Telegram Bots; shows uptime of all listed bots
 
 ### Job boards
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers.
