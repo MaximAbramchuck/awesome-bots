@@ -524,6 +524,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Audrey Wu** - Co-Founder and CEO at CONVRG. Worked at imperson, the company behind AI chatbots such as Miss Piggy, Zootopia (Judy Hopps) and Doc Brown from Back to the Future. [Twitter](https://twitter.com/mraudreywu) [Linkedin](https://www.linkedin.com/in/audreyellenwu/) [Facebook](https://www.facebook.com/mraudreywu)
 
 ### Events/Conferences/Meetups
+* [Chatbot Conference / Bot Week] (https://www.chatbotconference.com/) - hosted by Chatbot's Life, largest bot conference in SF
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
 * [ChatbotConf](https://chatbotconf.com/) - The biggest chatbot conference in Europe. Vienna
 * [Botness](https://www.botness.org/) - Botness is a two-day gathering in NYC.  Bot related startups, tools, bots for work and play, discovery, and engagement
