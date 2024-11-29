@@ -167,6 +167,7 @@ This project is no longer actively supported.
 * [ChatbotProxy](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
 * [Botmeter](https://www.botfuel.io/features/botmeter) - Follow performance, optimize conversations and understand your customers' behaviors through our analytics application.
 * [Chatbase](https://chatbase.com) - Analyse and optimize bot conversations. Visualize interaction flow, explore chat conversations, analyze retention and track convertions. 
+* [QuickChart](https://quickchart.io) - Generate charts and graphs for your bots. Open source, easy-to-use, and highly customizable.
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
